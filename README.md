@@ -16,5 +16,5 @@ a program that can read in the file, calculate the average precipitation and out
 - Python
 
 ## Contact
-Nicholas Letarte - letarte.n@northeastern.edu
-Project Link: https://github.com/nicholasletarte/Precipitation-Project
+<p>Nicholas Letarte - letarte.n@northeastern.edu
+<br>Project Link: https://github.com/nicholasletarte/Precipitation-Project </p>
