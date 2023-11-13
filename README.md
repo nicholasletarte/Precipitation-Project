@@ -5,6 +5,7 @@
 ## Table of Contents
 - [About The Project](#about-the-project)
 - [Tools Used](#tools-used)
+- [Contact](#Contact)
 
 ## About The Project
 Using a csv file containing rainfall data for Portland, ME and surrounding cities, I have created 
@@ -13,3 +14,7 @@ a program that can read in the file, calculate the average precipitation and out
 
 ## Tools Used
 - Python
+
+## Contact
+Nicholas Letarte - letarte.n@northeastern.edu
+Project Link: https://github.com/nicholasletarte/Precipitation-Project
